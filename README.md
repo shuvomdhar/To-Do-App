@@ -20,7 +20,7 @@ A simple yet powerful task management application that allows multiple users to 
 - **Password Security**: Werkzeug password hashing
 
 ## This is how it will work
-![Uploading To-Do Recording.gif…]()
+![To-Do App]("D:\To-Do Recording.gif")
 
 
 ## Prerequisites
