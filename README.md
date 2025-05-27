@@ -32,6 +32,9 @@ Before running the application, make sure you have the following installed:
 
 ```bash
 git clone https://github.com/shuvomdhar/To-Do-App.git
+```
+
+```bash
 cd To-Do App
 ```
 
