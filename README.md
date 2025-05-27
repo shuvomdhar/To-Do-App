@@ -19,12 +19,7 @@ A simple yet powerful task management application that allows multiple users to 
 - **Authentication**: Flask sessions
 - **Password Security**: Werkzeug password hashing
 
-## This is how it will work
-![To-Do App]("D:\To-Do Recording.gif")
-
-
 ## Prerequisites
-
 
 Before running the application, make sure you have the following installed:
 
